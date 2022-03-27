@@ -80,3 +80,44 @@
         </div>
       </div>
     </div>
+<!Africa-->
+    <div className="container-fluid full-width">
+      <div className="row">
+        <div className="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+          <p className="text-center homeTitleText">Africa</p>
+        </div>
+      </div>
+
+      <div className="row row-no-gutter">
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <p className="subHomeText homeLeft">Yassa</p>
+          <p className="desHomeText homeLeft">Yassa is a popular dish from Mali. Major Ingredients - Chicken, Caramelized Onions, Mustard, Lemon Juice</p>
+          <p className="sourceHomeText homeLeft">Sources - africanbites</p>
+        </div>
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Poulet_Yassa.JPG/1200px-Poulet_Yassa.JPG?20141122121641" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
+        </div>
+      </div>
+
+      <div className="row row-no-gutter">
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <p className="subHomeText homeLeft">Kushari</p>
+          <p className="desHomeText homeLeft">Kushari is a popular dish from Egypt. Major Ingredients - Flour, Cheese, Onions</p>
+          <p className="sourceHomeText homeLeft">Sources - Allrecipes</p>
+        </div>
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/2015_0718_K%C3%A4sesp%C3%A4tzle_S%C3%B6lden.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
+        </div>
+      </div>
+
+      <div className="row row-no-gutter">
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <p className="subHomeText homeLeft">Pinnekjøtt</p>
+          <p className="desHomeText homeLeft">Pinnekjøtt is a popular dish from Norway. Major Ingredients - Lamb Ribs, Butter, Water</p>
+          <p className="sourceHomeText homeLeft">Sources - North Wild Kitchen</p>
+        </div>
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pinnekj%C3%B8tt_%281%29.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
+        </div>
+      </div>
+    </div>
