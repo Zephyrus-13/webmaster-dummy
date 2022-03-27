@@ -7,8 +7,9 @@
 
       <div className="row row-no-gutter">
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-          <p className="subHomeText homeLeft">USA</p>
-          <p className="desHomeText homeLeft">Country Description (EDIT HERE)</p>
+          <p className="subHomeText homeLeft">Apple Pie</p>
+          <p className="desHomeText homeLeft">The Apple Pie is a popular pastry from the USA. Major Ingredients - Apples, Flour, Eggs</p>
+          <p className="sourceHomeText homeLeft">Sources - Food Network</p>
         </div>
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Apple_pie.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
@@ -17,8 +18,9 @@
 
       <div className="row row-no-gutter">
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-          <p className="subHomeText homeLeft">Mexico</p>
-          <p className="desHomeText homeLeft">Country Description (EDIT HERE)</p>
+          <p className="subHomeText homeLeft">Chilaquiles</p>
+          <p className="desHomeText homeLeft">Chilaquiles is a popular dish from Mexico. Major Ingredients - Corn Tortillas, Salsa, Cheese</p>
+          <p className="sourceHomeText homeLeft">Sources - Simply Recipes</p>
         </div>
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Portada-chilaquiles-rojos.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
@@ -27,8 +29,9 @@
 
       <div className="row row-no-gutter">
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-          <p className="subHomeText homeLeft">Canada</p>
-          <p className="desHomeText homeLeft">Country Description (EDIT HERE)</p>
+          <p className="subHomeText homeLeft">Tourtière</p>
+          <p className="desHomeText homeLeft">Tourtière is a popular meat pie from Canada. Major Ingredients - Flour, potato, pork beef. </p>
+          <p className="sourceHomeText homeLeft">Sources - Allrecipes</p>
         </div>
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
           <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Tourtiere_cross_section_%28cropped%29.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
