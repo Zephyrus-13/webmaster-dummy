@@ -125,18 +125,18 @@
     <div className="container-fluid full-width">
       <div className="row">
         <div className="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-          <p className="text-center homeTitleText">Africa</p>
+          <p className="text-center homeTitleText">Asia</p>
         </div>
       </div>
 
       <div className="row row-no-gutter">
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-          <p className="subHomeText homeLeft">Yassa</p>
-          <p className="desHomeText homeLeft">Yassa is a popular dish from Mali. Major Ingredients - Chicken, Caramelized Onions, Mustard, Lemon Juice</p>
-          <p className="sourceHomeText homeLeft">Sources - africanbites</p>
+          <p className="subHomeText homeLeft">Dumplings</p>
+          <p className="desHomeText homeLeft">Dumplings are a popular appetizer from China. Major Ingredients - Flour, Butter, Milk</p>
+          <p className="sourceHomeText homeLeft">Sources - Allrecipes</p>
         </div>
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Poulet_Yassa.JPG/1200px-Poulet_Yassa.JPG?20141122121641" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Dumplings_%28jiaozhi%29_%28Pork_and_napa_cabbage%29.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
         </div>
       </div>
 
