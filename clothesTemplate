@@ -150,7 +150,7 @@ const ClothesTemplate = () => {
       
       <div className="row row-no-gutter">
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-          <p className="subHomeText homeLeft">A traditional wear of India worn by women is called a Sarip</p>
+          <p className="subHomeText homeLeft">A traditional wear of India worn by women is called a Sari</p>
           <p className="desHomeText homeLeft">A Sari is a garment made of silk and cotton</p>
         </div>
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
@@ -170,14 +170,63 @@ const ClothesTemplate = () => {
       
       div className="row row-no-gutter">
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-          <p className="subHomeText homeLeft">A traditional wear of Turkey worn by women is called Salvar</p>
-          <p className="desHomeText homeLeft">A Salvar is a garment made of soft frabics woven by thin threads</p>
+          <p className="subHomeText homeLeft">A traditional wear of Australia is called Driza Bone</p>
+          <p className="desHomeText homeLeft">A Driza-Bone is a jacket made of cotton and oil</p>
         </div>
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-          <img src="https://fashionandrace.org/database/wp-content/uploads/sites/2/2021/06/FRD_OTM_Salvar-5.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
+          <img src="https://i.pinimg.com/736x/00/64/ff/0064ff514f57e162b4d02be3c5bfc019--bone-original-country-wear.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
         </div>
       </div>
       
+       div className="row row-no-gutter">
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <p className="subHomeText homeLeft">A traditional wear of New Zealand is called Piupiu</p>
+          <p className="desHomeText homeLeft">A Piupiu is skirt-like garment made from strands that hang from a belt</p>
+        </div>
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <img src="https://i.pinimg.com/736x/00/64/ff/0064ff514f57e162b4d02be3c5bfc019--bone-original-country-wear.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
+        </div>
+      </div>
+      
+       div className="row row-no-gutter">
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <p className="subHomeText homeLeft">A traditional wear of Fiji is called Sulu</p>
+          <p className="desHomeText homeLeft">A Sulu is kilt-like garment mde from polyester and cotton</p>
+        </div>
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Fiji_palace_guard.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
+        </div>
+      </div>
+      
+       div className="row row-no-gutter">
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <p className="subHomeText homeLeft">A traditional wear of Brazil is called a Baiana Dress</p>
+          <p className="desHomeText homeLeft">A Braiana Dress is most commonly worn by the women of bahia in northeast Brazil</p>
+        </div>
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Posse_do_Conselho_Gestor_da_Salvaguarda_do_Of%C3%ADcio_das_Baianas_de_Acaraj%C3%A9_%2821292156468%29.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
+        </div>
+      </div>
+      
+       div className="row row-no-gutter">
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <p className="subHomeText homeLeft">A traditional wear of Peru is called a Poncho</p>
+          <p className="desHomeText homeLeft">A Poncho shields the body from cold and rain and the weather in the Andes</p>
+        </div>
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <img src="https://cdn.pixabay.com/photo/2021/02/01/00/26/red-5968961_1280.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
+        </div>
+      </div>
+     
+            div className="row row-no-gutter">
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <p className="subHomeText homeLeft">A traditional wear of Guyana is called a Dashiki</p>
+          <p className="desHomeText homeLeft">A Dashiki is a colourful garnment that is made of cotton</p>
+        </div>
+        <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <img src="https://i.pinimg.com/originals/23/4b/b5/234bb5119e41b030673881a579be4664.jpg" className="img-responsive img-right img-full-width" width="100%" height="100%"/>
+        </div>
+      </div>
     </div>
   );
 }
